@@ -1,0 +1,10 @@
+[database]
+date = 'filename'
+week = 'filefolder'
+amount = 1 # header level
+description = 0 # text body
+
+[markdown]
+italic= '*'
+bold= '**'
+type= '`'

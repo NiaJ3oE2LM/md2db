@@ -1,0 +1,12 @@
+[database]
+souce = 1 # header level
+word = 2
+definition = 0 # text body
+example = 'italic'
+register = 'bold'
+synonym = 'type'
+
+[markdown]
+italic= '*'
+bold= '**'
+type= '`'
